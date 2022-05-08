@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<users>
+    <user>
+        <userid>deb</userid>
+        <password>pwd@123</password>
+    </user>
+    <user>
+        <userid>abhilash</userid>
+        <password>pwd@123</password>
+    </user>
+    <user>
+        <userid>rashmi</userid>
+        <password>pwd@123</password>
+    </user>
+    <user>
+        <userid>sriya</userid>
+        <password>pwd@123</password>
+    </user>
+    <user>
+        <userid>sonali</userid>
+        <password>pwd@123</password>
+    </user>
+</users>
