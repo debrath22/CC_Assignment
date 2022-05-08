@@ -31,7 +31,7 @@ if(isset($_POST["Submit"]))
 {
 $uname=$_POST["uname"];
 $pwd=$_POST["pwd"];
-$xml=simplexml_load_file('users.xml') or die("Error: Cannot create object");
+$xml=simplexml_load_file('user.xml') or die("Error: Cannot create object");
 foreach($xml->children() as $users) 
 { 
     if($users->userid==$uname)
